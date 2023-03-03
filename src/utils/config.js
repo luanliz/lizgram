@@ -1,4 +1,4 @@
-export const api = "https://lizgram-backend.vercel.app/api";
+export const api = "https://lizgram-backend.vercel.app";
 export const uploads = "https://lizgram-backend.vercel.app/uploads";
 
 export const requestConfig = (method, data, token = null, image = null) => {
